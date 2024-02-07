@@ -2,7 +2,7 @@
 
 # Calculating MX Dye
 # Feb 5 2024
-# Author: Ellie
+# Author: postagestamp
 
 # Purpose: Writing code to calculate the math so I don't have to
 
